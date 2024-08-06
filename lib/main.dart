@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:machine_test/controller/api_provider.dart';
+import 'package:machine_test/controller/provider.dart';
 import 'package:machine_test/view/news_list_screen.dart';
 import 'package:provider/provider.dart';
 

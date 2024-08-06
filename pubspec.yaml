@@ -31,6 +31,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   http: ^1.2.2
   provider: ^6.1.2
+  infinite_scroll: ^1.1.1
+  simple_infinite_scroll: ^1.1.2
 
 dev_dependencies:
   flutter_test:
